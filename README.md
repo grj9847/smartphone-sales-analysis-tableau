@@ -22,12 +22,11 @@ This project analyzes smartphone sales data to uncover insights on revenue, pric
 - Evaluated discount patterns and their impact on sales
 - Highlighted variations in pricing across brands and segments
 
-## 📷 Dashboard Preview
-![Dashboard](add-your-image-name-here.png)
-
 ## 📁 Files Included
 - Tableau Dashboard (.twbx / .twb)
 - Dataset (if available)
+
+## 📷 Dashboard Preview
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-23 143243" src="https://github.com/user-attachments/assets/976d668a-cb21-46fa-ac5d-794ca6c2076c" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-23 143509" src="https://github.com/user-attachments/assets/f99e247f-863a-4217-98e3-bc7c4e8143c7" />
